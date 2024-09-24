@@ -36,6 +36,6 @@ void main() {
 
   print("How much is your salary - stettarfelag");
   String? inputt = stdin.readLineSync();
-  double secondNumberInput = double.tryParse(input!) ?? 0;
+  double secondNumberInput = double.tryParse(input) ?? 0;
   print(samtals - salary);
   }

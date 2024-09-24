@@ -28,7 +28,6 @@
 //   String eenawithoutSpaces = eena.replaceAll(" ", "");
 //   print(eenawithoutSpaces);
 // }
-import 'dart:io';
 // void main(verkefni5) {
 //   String? name;
 //   print("What is your name? ");
